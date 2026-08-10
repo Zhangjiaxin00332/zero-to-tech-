@@ -2,7 +2,7 @@
   padding: 24px 28px;
   background: var(--surface);
   border-radius: var(--radius-panel);
-  box-shadow: var(--shadow);
+  box-shadow: va(--shadow);
 }
 
 /* 卡片的初始状态：藏起来 + 微微下沉，等动画把它们抬起来。
